@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="the first creating" />
+    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="test the matplotlib">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_Regression/Linear_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST_handwriting/KNN_MNIST_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST_handwriting/CNN_MNIST_01.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -50,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749792427239</updated>
-      <workItem from="1749792428359" duration="13557000" />
+      <workItem from="1749792428359" duration="17111000" />
     </task>
     <task id="LOCAL-00001" summary="the first creating">
       <option name="closed" value="true" />
@@ -68,7 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749814300357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="the first creating">
+      <option name="closed" value="true" />
+      <created>1749814430361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749814430361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="the first creating">
+      <option name="closed" value="true" />
+      <created>1749814469302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749814469302</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test the matplotlib">
+      <option name="closed" value="true" />
+      <created>1749816011040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749816011040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +126,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first creating" />
-    <option name="LAST_COMMIT_MESSAGE" value="the first creating" />
+    <MESSAGE value="test the matplotlib" />
+    <option name="LAST_COMMIT_MESSAGE" value="test the matplotlib" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyTorch_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1749815978796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Classifier" />
   </component>
 </project>
