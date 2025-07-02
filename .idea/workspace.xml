@@ -4,9 +4,276 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="test the matplotlib">
+    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="nn Module">
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101371.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101377.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101862.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101932.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101933.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101934.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101935.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101936.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101940.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101941.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102048.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102060.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102106.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102107.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102278.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102788.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102803.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102868.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102869.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc102932.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc103145.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc106846.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc108002.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc110167.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc110303.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc113082.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc113089.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc113905.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc116226.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc118363.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc118441.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc120664.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc120666.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121016.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121168.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121326.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121597.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121601.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121677.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121691.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121735.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc121963.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc122548.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc122555.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123167.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123168.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123169.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123170.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123808.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc123810.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc124013.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc124052.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc124053.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc125137.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc125486.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc125777.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc125782.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc126481.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc127136.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc127996.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc128851.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc128853.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc129576.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc129577.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc130283.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc130409.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc130426.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc130639.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc130993.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc131316.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc132149.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc132392.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc132580.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc132608.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc132611.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133054.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133444.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133471.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133862.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133872.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133880.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc133886.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc134042.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc134291.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc134671.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc135270.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc135521.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc138979.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc139372.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc139552.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc140557.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc141026.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc142431.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc142697.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc142908.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc143002.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc143005.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc143170.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc143465.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc143894.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc144382.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc144991.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc145533.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc145534.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc145537.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc145738.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146062.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146260.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146707.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146753.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146755.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146756.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc146757.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc148426.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc148465.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc148528.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc148889.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc149146.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc149806.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc150291.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc151150.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc153129.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc153131.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc153833.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc154285.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc155975.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc156262.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc156388.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc157279.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc157322.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc157331.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc158166.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc160879.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc164926.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc25119.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc25754.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc26578.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc26789.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27039.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27060.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27080.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27145.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27152.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27962.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc27999.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc28926.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc28961.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc29230.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc29766.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc30390.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc30614.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc31059.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc33392.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc33395.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc35068.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc35578.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc36637.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc37447.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc40186.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc41428.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc41816.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42178.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42224.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42343.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42344.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42430.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42698.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc42803.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc43764.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc43853.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc44203.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc44707.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc46032.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc46209.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc46211.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc46223.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc49443.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc49540.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc53817.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc55184.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc57919.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc58571.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc58573.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc58579.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc59776.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc64685.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc64686.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc64728.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc64735.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc64738.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc67089.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc67229.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc67307.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc69792.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc69855.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc70124.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc70129.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc70132.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc71024.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc71454.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc71748.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc71943.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc72629.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc72861.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc75092.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76241.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76740.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76742.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76760.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76761.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76762.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76765.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc76767.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc77429.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc77645.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc78951.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc78958.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc80356.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc82701.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc82715.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc82971.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc83357.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc83705.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc83760.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc83894.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc83912.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc85842.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc86327.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc89530.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc89994.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc90122.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc90977.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc91185.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc92264.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94211.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94212.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94584.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94614.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94615.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94652.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94669.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94958.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94964.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc94967.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc95058.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc95381.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc96133.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc96464.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc96608.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc97194.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc97792.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc97982.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc98172.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc98400.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc98691.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc98842.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc98942.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99072.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99155.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99299.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99357.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99529.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99862.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99937.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/British Birdsong Dataset_datasets.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTorch/DataMigrationTesting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorch/DataMigrationTesting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTorch/nnModule.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorch/nnModule.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XenoPy_Classifier/create_species_file_onehot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XenoPy_Classifier/create_species_file_onehot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XenoPy_Classifier/train.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XenoPy_Classifier/train.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +289,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,22 +317,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\XenoPy_Classifier\Bird_Song" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +357,32 @@
       <workItem from="1749792428359" duration="17111000" />
       <workItem from="1750478233562" duration="161000" />
       <workItem from="1750478427465" duration="78000" />
-      <workItem from="1750478585729" duration="259000" />
+      <workItem from="1750478585729" duration="288000" />
+      <workItem from="1750485491305" duration="670000" />
+      <workItem from="1750486174454" duration="12000" />
+      <workItem from="1750486193310" duration="5594000" />
+      <workItem from="1750502212545" duration="88000" />
+      <workItem from="1750502447143" duration="9000" />
+      <workItem from="1750504287704" duration="1996000" />
+      <workItem from="1750514153446" duration="234000" />
+      <workItem from="1750517946740" duration="2718000" />
+      <workItem from="1750521881548" duration="3563000" />
+      <workItem from="1750525883594" duration="5125000" />
+      <workItem from="1750570895951" duration="7107000" />
+      <workItem from="1750591834610" duration="3190000" />
+      <workItem from="1750682737085" duration="4651000" />
+      <workItem from="1750689535158" duration="4556000" />
+      <workItem from="1750734958662" duration="6307000" />
+      <workItem from="1751023708336" duration="1260000" />
+      <workItem from="1751094821475" duration="673000" />
+      <workItem from="1751185540293" duration="104000" />
+      <workItem from="1751186391243" duration="774000" />
+      <workItem from="1751214388665" duration="23000" />
+      <workItem from="1751289986425" duration="1750000" />
+      <workItem from="1751352645572" duration="1871000" />
+      <workItem from="1751385814531" duration="2219000" />
+      <workItem from="1751433680800" duration="13000" />
+      <workItem from="1751498596079" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="the first creating">
       <option name="closed" value="true" />
@@ -141,7 +440,119 @@
       <option name="project" value="LOCAL" />
       <updated>1750478453189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Data Migration Testing">
+      <option name="closed" value="true" />
+      <created>1750478860550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750478860550</updated>
+    </task>
+    <task id="LOCAL-00009" summary="birdsong_metadata">
+      <option name="closed" value="true" />
+      <created>1750521801327</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750521801328</updated>
+    </task>
+    <task id="LOCAL-00010" summary="BirdSong Classifier">
+      <option name="closed" value="true" />
+      <created>1750521960234</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750521960234</updated>
+    </task>
+    <task id="LOCAL-00011" summary="create species file onehot">
+      <option name="closed" value="true" />
+      <created>1750522520895</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750522520895</updated>
+    </task>
+    <task id="LOCAL-00012" summary="rename audio files and create the new folder">
+      <option name="closed" value="true" />
+      <created>1750523432326</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750523432326</updated>
+    </task>
+    <task id="LOCAL-00013" summary="audio processing">
+      <option name="closed" value="true" />
+      <created>1750526793492</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750526793492</updated>
+    </task>
+    <task id="LOCAL-00014" summary="audio processing remake">
+      <option name="closed" value="true" />
+      <created>1750531165320</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750531165320</updated>
+    </task>
+    <task id="LOCAL-00015" summary="working">
+      <option name="closed" value="true" />
+      <created>1750692018413</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750692018413</updated>
+    </task>
+    <task id="LOCAL-00016" summary="添加注释">
+      <option name="closed" value="true" />
+      <created>1750749876567</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750749876567</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change">
+      <option name="closed" value="true" />
+      <created>1751023769416</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1751023769416</updated>
+    </task>
+    <task id="LOCAL-00018" summary="准确率计算器">
+      <option name="closed" value="true" />
+      <created>1751094872001</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1751094872001</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Final Finished File">
+      <option name="closed" value="true" />
+      <created>1751186514857</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1751186514857</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Final Finished">
+      <option name="closed" value="true" />
+      <created>1751290097340</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1751290097340</updated>
+    </task>
+    <task id="LOCAL-00021" summary="nn Module">
+      <option name="closed" value="true" />
+      <created>1751385917921</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1751385917921</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +572,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first creating" />
     <MESSAGE value="test the matplotlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="test the matplotlib" />
+    <MESSAGE value="Data Migration Testing" />
+    <MESSAGE value="birdsong_metadata" />
+    <MESSAGE value="BirdSong Classifier" />
+    <MESSAGE value="create species file onehot" />
+    <MESSAGE value="rename audio files and create the new folder" />
+    <MESSAGE value="audio processing" />
+    <MESSAGE value="audio processing remake" />
+    <MESSAGE value="working" />
+    <MESSAGE value="添加注释" />
+    <MESSAGE value="change" />
+    <MESSAGE value="准确率计算器" />
+    <MESSAGE value="Final Finished File" />
+    <MESSAGE value="Final Finished" />
+    <MESSAGE value="nn Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="nn Module" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyTorch_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1749815978796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Classifier" />
