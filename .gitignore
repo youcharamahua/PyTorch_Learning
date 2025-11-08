@@ -2,4 +2,7 @@
 /BirdsSong_Classifier
 /.idea
 
+*.pth
+*.pt
+
 BirdsSong_Classifier.zip
