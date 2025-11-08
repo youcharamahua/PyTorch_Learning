@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="nn Module">
+    <list default="true" id="dcbe9374-7a2f-4c5d-98e8-124ab454387e" name="Changes" comment="分析.pth文件的内容，输出其结构">
+      <change afterPath="$PROJECT_DIR$/BirdsSong_Classifier/datasets_processing.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101371.flac" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101377.flac" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc101862.flac" afterDir="false" />
@@ -271,9 +272,7 @@
       <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/Bird_Song/songs/xc99937.flac" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/XenoPy_Classifier/British Birdsong Dataset_datasets.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTorch/nnModule.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyTorch/nnModule.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoPy_Classifier/create_species_file_onehot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XenoPy_Classifier/create_species_file_onehot.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoPy_Classifier/train.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XenoPy_Classifier/train.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST_handwriting/CNN_MNIST_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MNIST_handwriting/CNN_MNIST_01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,50 +298,109 @@
     &quot;assignee&quot;: &quot;youcharamahua&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="987b3405-b63d-4ed2-a439-cbf4b8d64f57" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/youcharamahua/PyTorch_Learning.git&quot;,
-    &quot;accountId&quot;: &quot;987b3405-b63d-4ed2-a439-cbf4b8d64f57&quot;
+    &quot;accountId&quot;: &quot;f1ee4b59-6faf-4fe6-8cdb-8e84b98e0871&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2yRLR7Z1NXR7zFQrwXq50EV7jMt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.bird_clustering (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProgrammingWorkplace/basePython/PyTorch_Learning/PyTorch&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\PyTorch" />
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\BirdsSong_Classifier" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\BirdsSong_Classifier" />
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\XJ_CD_classifier\Noise" />
+      <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\XJ_CD_classifier\Original_WAV" />
       <recent name="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\XenoPy_Classifier\Bird_Song" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.bird_clustering (1)">
+    <configuration name="bird_clustering (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyTorch_Learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XJ_CD_classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XJ_CD_classifier/bird_clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bird_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyTorch_Learning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XJ_CD_classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ProgrammingWorkplace\basePython\PyTorch_Learning\XJ_CD_classifier\bird_clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bird_clustering" />
+        <item itemvalue="Python.bird_clustering (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -382,7 +440,52 @@
       <workItem from="1751352645572" duration="1871000" />
       <workItem from="1751385814531" duration="2219000" />
       <workItem from="1751433680800" duration="13000" />
-      <workItem from="1751498596079" duration="1715000" />
+      <workItem from="1751498596079" duration="2745000" />
+      <workItem from="1751501656538" duration="2366000" />
+      <workItem from="1751531255410" duration="1603000" />
+      <workItem from="1751637498329" duration="4126000" />
+      <workItem from="1752047899739" duration="2358000" />
+      <workItem from="1752071904110" duration="8447000" />
+      <workItem from="1752084218557" duration="3875000" />
+      <workItem from="1752130404702" duration="5547000" />
+      <workItem from="1752137960511" duration="29000" />
+      <workItem from="1752146109169" duration="2676000" />
+      <workItem from="1752159741512" duration="1924000" />
+      <workItem from="1752214216103" duration="10638000" />
+      <workItem from="1752233261508" duration="2524000" />
+      <workItem from="1752235833601" duration="8414000" />
+      <workItem from="1752247108993" duration="241000" />
+      <workItem from="1752469694939" duration="348000" />
+      <workItem from="1752559522906" duration="6350000" />
+      <workItem from="1752638723581" duration="6628000" />
+      <workItem from="1752739617423" duration="6013000" />
+      <workItem from="1752813422820" duration="143000" />
+      <workItem from="1752813719571" duration="287000" />
+      <workItem from="1753188494576" duration="12138000" />
+      <workItem from="1753243279044" duration="495000" />
+      <workItem from="1753704462289" duration="2657000" />
+      <workItem from="1753707200704" duration="313000" />
+      <workItem from="1753859171129" duration="124000" />
+      <workItem from="1753859530483" duration="37000" />
+      <workItem from="1753859597634" duration="33000" />
+      <workItem from="1753860834751" duration="1341000" />
+      <workItem from="1753873769448" duration="5949000" />
+      <workItem from="1753940809080" duration="7071000" />
+      <workItem from="1753955405409" duration="2945000" />
+      <workItem from="1754028485816" duration="723000" />
+      <workItem from="1754912702677" duration="490000" />
+      <workItem from="1755492906796" duration="2914000" />
+      <workItem from="1755589905713" duration="2687000" />
+      <workItem from="1755791546593" duration="8000" />
+      <workItem from="1755960978269" duration="596000" />
+      <workItem from="1755970926334" duration="6197000" />
+      <workItem from="1755977298498" duration="1647000" />
+      <workItem from="1756027878823" duration="7731000" />
+      <workItem from="1756081441351" duration="210000" />
+      <workItem from="1756081714410" duration="1065000" />
+      <workItem from="1756191662463" duration="661000" />
+      <workItem from="1756363753895" duration="3000" />
+      <workItem from="1756458829737" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="the first creating">
       <option name="closed" value="true" />
@@ -552,7 +655,87 @@
       <option name="project" value="LOCAL" />
       <updated>1751385917921</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="nn Module">
+      <option name="closed" value="true" />
+      <created>1751500513300</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1751500513300</updated>
+    </task>
+    <task id="LOCAL-00023" summary="nn Module">
+      <option name="closed" value="true" />
+      <created>1751500609505</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1751500609505</updated>
+    </task>
+    <task id="LOCAL-00024" summary="nn Module">
+      <option name="closed" value="true" />
+      <created>1751637538900</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1751637538900</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Physics-Informed Neural Networks">
+      <option name="closed" value="true" />
+      <created>1752469902882</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1752469902882</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Automatic Differentiation Testing">
+      <option name="closed" value="true" />
+      <created>1752559901093</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1752559901093</updated>
+    </task>
+    <task id="LOCAL-00027" summary="自定义编辑数据集的PINN尝试（y' = 2x + 5 ; y|x=0 = 3）">
+      <option name="closed" value="true" />
+      <created>1752572950020</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1752572950020</updated>
+    </task>
+    <task id="LOCAL-00028" summary="自定义编辑数据集的PINN尝试（y' = 2x + 5 ; y|x=0 = 3）">
+      <option name="closed" value="true" />
+      <created>1752657000909</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1752657000909</updated>
+    </task>
+    <task id="LOCAL-00029" summary="优化代码结构后的MNIST手写文字识别">
+      <option name="closed" value="true" />
+      <created>1752744071004</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1752744071004</updated>
+    </task>
+    <task id="LOCAL-00030" summary="分析.pth文件的内容，输出其结构">
+      <option name="closed" value="true" />
+      <created>1753949442478</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1753949442478</updated>
+    </task>
+    <task id="LOCAL-00031" summary="分析.pth文件的内容，输出其结构">
+      <option name="closed" value="true" />
+      <created>1753949618996</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1753949618996</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,9 +769,15 @@
     <MESSAGE value="Final Finished File" />
     <MESSAGE value="Final Finished" />
     <MESSAGE value="nn Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="nn Module" />
+    <MESSAGE value="Physics-Informed Neural Networks" />
+    <MESSAGE value="Automatic Differentiation Testing" />
+    <MESSAGE value="自定义编辑数据集的PINN尝试（y' = 2x + 5 ; y|x=0 = 3）" />
+    <MESSAGE value="优化代码结构后的MNIST手写文字识别" />
+    <MESSAGE value="分析.pth文件的内容，输出其结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="分析.pth文件的内容，输出其结构" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyTorch_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1749815978796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic_Classifier" />
+    <SUITE FILE_PATH="coverage/PyTorch_Learning$bird_clustering__1_.coverage" NAME="bird_clustering (1) Coverage Results" MODIFIED="1752134306476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XJ_CD_classifier" />
+    <SUITE FILE_PATH="coverage/PyTorch_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1752086344157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XJ_CD_classifier" />
   </component>
 </project>
