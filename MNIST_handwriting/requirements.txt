@@ -1,0 +1,8 @@
+torchinfo
+tensorboard
+tensorboardX>=2.1
+numpy
+matplotlib
+Pillow
+tkinter
+torchmetrics>=1.0.0
